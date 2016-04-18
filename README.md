@@ -18,6 +18,12 @@ redirect_to: /where-you-want-to-go
 ---
 ```
 
+## Use
+
+You can setup this redirector on its own domain using the [CNAME procedure](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
+
+Or, like me, you can mount your `name.github.io` to a custom domain, and this site gets hosted at `name.github.io/r`.
+
 ## License
 
 See [LICENSE](/LICENSE) file.
